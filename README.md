@@ -17,6 +17,6 @@ My task was to complete the first weeks homework asignment which was to refactor
 [Header](./assets/screenshots/Screenshot%202023-04-28%20at%209.49.55%20PM.png")
 [body](./assets/screenshots/Screenshot%202023-04-28%20at%209.50.04%20PM.png)
 
-## link to deployed page
+## link to deployed page here
 
 [view page here](https://1willcobb.github.io/Module-1-Challange/)
